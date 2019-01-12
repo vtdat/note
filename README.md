@@ -4,8 +4,8 @@
 - Point out the differences between those.
 - Point out some obstacles if we separate them.
 - Point of why combining them can solve the problems.
-- Correlation between trace/log/metrics and alert.
-- Correlation using Jaeger, Elasticsearch, Kibana, Grafana, Prometheus.
-- Some real cases that can easily be solved by using the correlation.
-- Compare between Jaeger and other distributed tracing system: Appdynamics, Datadog, Application Performance Monitoring (APM) v.v. by overheads, performances v.v.
+- Correlate trace/log/metrics and alert.
+- Correlate using Jaeger, Elasticsearch, Kibana, Grafana, Prometheus.
+- Some real cases that can be easily solved by using the correlation.
+- Compare Jaeger to other distributed tracing system: Appdynamics, Datadog, Application Performance Monitoring (APM) v.v. by overheads, performances v.v.
 - Conclusion.
