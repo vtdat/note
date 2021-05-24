@@ -20,3 +20,6 @@ Tuy nhiên, để tra cứu đến việc giám sát từng service trong cùng 
 - Việc khai báo thông tin cụm giám sát sẽ hỗ trợ cho việc cross-check khi nhận bàn giao VHKT, BO không phải ghi nhớ từng instance thuộc cụm giám sát nào
 - Hỗ trợ việc sử lý sự cố, có 1 view về metrics, logging và các cảnh bảo liên quan, để đưa ra quyết định dựa vào các thông tin đó
 - Đưa ra được model về lịch sử tập cảnh báo => đưa ra dự đoán trước nếu việc tương tự xảy ra trong tương lai
+
+# Anomaly detection về Log và Metrics
+
